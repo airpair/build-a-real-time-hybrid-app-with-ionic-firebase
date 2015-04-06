@@ -6,7 +6,7 @@ Developing native apps for all of these platforms is impossible, which is why Co
 In this tutorial, we will learn how to build a Hybrid Mobile app using the Ionic framework with Firebase as it's real time database. We will create a native application for iOS & Android using Cordova/Phonegap. 
 
 ### 1.1 What is Ionic?
-Ionic is the buzzing hybrid app development framework built using the popular AngularJS library. AngularJS is a javascript MV* library used for creating single page applications for web and mobile. Ionic is a product of [Drifty](http://drifty.com), a silicon valley startup.
+Ionic is the buzzing hybrid app development framework built using the popular AngularJS library. AngularJS is a javascript MV* library used for creating single page applications for web and mobile. Ionic is a product of [Drifty](http://drifty.com), a startup based out of Madison, WI.
 
 ### 1.2 What is Firebase ?
 Gone are the days when you were required to buy a server, spend time installing it and spend long hours programming to build a simple API. Firebase is a cloud based platform which can be integrated into real time apps on any web and mobile platform. It enables apps to write data, and get updates about changes to the database, instantly. Firebase also supports offline capability and your data is synchronized instantly as soon as the app regains network connectivity. Firebase stores your data as JSON documents so that you are free to choose the schema of your data.
